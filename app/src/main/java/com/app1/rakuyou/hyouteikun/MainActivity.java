@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
         // レイアウトをセット
         setContentView(R.layout.activity_main);
     }
-    public void onClick(View V) {
-        switch (V.getId()) {
+    public void onClick(View v) {
+        switch (v.getId()) {
 
             case R.id.button://"始める"ボタンを押した場合
                 //Main2Activityに移動
