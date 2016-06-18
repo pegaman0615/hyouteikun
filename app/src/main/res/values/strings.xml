@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">hyouteikun</string>
     <string name="hyoutei">評定平均計算アプリ</string>
+    <string name="st">始める</string>
+    <string name="huse">使い方</string>
+    <string name="set">設定</string>
+    <string name="na">build by Nakamura・Nakata</string>
 </resources>
