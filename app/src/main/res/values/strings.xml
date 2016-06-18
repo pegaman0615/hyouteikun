@@ -1,16 +1,17 @@
 <resources>
-    <string name="app_name">hyouteikun</string>
+    <string name="app_name"></string>
     <string name="hyoutei">評定平均計算アプリ</string>
     <string name="st">始める</string>
     <string name="huse">使い方</string>
     <string name="set">設定</string>
     <string name="na">build by Nakamura・Nakata</string>
-    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main2"></string>
     <string name="iname">名前</string>
     <string name="winame">名前を入力</string>
     <string name="inum">クラス・番号</string>
     <string name="winum">クラス・番号を入力</string>
     <string name="next">次へ</string>
-    <string name="title_activity_main3">Main3Activity</string>
-    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main3"></string>
+    <string name="title_activity_main4"></string>
+    <string name="action_settings">Settings</string>
 </resources>

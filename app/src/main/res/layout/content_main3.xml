@@ -10,7 +10,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.app1.rakuyou.hyouteikun.Main3Activity"
-    tools:showIn="@layout/activity_main3"
-    android:background="#AAFFFF">
+    tools:showIn="@layout/activity_main3">
 
 </RelativeLayout>

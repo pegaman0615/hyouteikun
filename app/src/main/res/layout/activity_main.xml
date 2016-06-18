@@ -15,8 +15,8 @@
         android:layout_height="wrap_content"
         android:text="@string/hyoutei"
         android:textColor="#444444"
-        android:textSize="55sp"
-        android:layout_marginTop="79dp"
+        android:textSize="40sp"
+        android:layout_marginTop="56dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
@@ -24,19 +24,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/st"
-        android:textSize="30sp"
+        android:textSize="20sp"
         android:id="@+id/button"
-        android:layout_marginBottom="316dp"
-        android:layout_alignParentBottom="true"
+        android:onClick="onClick"
+        android:layout_above="@+id/textView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:onClick="onClick" />
+        android:layout_marginBottom="264dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/huse"
-        android:textSize="30sp"
+        android:textSize="20sp"
         android:id="@+id/button2"
         android:layout_marginTop="101dp"
         android:layout_alignTop="@+id/button"
@@ -48,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/set"
-        android:textSize="30sp"
+        android:textSize="20sp"
         android:id="@+id/button3"
         android:layout_below="@+id/button2"
         android:layout_alignParentLeft="true"
@@ -62,7 +62,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/na"
         android:textColor="#444444"
-        android:textSize="25sp"
+        android:textSize="15sp"
         android:id="@+id/textView"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
