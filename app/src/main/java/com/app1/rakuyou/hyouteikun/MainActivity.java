@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //タイトルバー非表示
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        // レイアウトをセットする
+        // レイアウトをセット
         setContentView(R.layout.activity_main);
     }
     public void onClick(View V) {
