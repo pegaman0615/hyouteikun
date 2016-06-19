@@ -61,9 +61,20 @@
         android:text="@string/next"
         android:textSize="20sp"
         android:id="@+id/button4"
+        android:onClick="onClick"
         android:layout_below="@+id/editText2"
-        android:layout_alignLeft="@+id/editText2"
-        android:layout_alignStart="@+id/editText2"
-        android:onClick="onClick" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ret"
+        android:textSize="20sp"
+        android:id="@+id/button5"
+        android:layout_below="@+id/button4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="onClick"/>
 
 </RelativeLayout>

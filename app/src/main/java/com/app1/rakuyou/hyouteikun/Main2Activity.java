@@ -22,6 +22,13 @@ public class Main2Activity extends AppCompatActivity {
                 //↓移動開始
                 startActivity(intent3);
                 break;
+
+            case R.id.button5://"タイトルに戻る"ボタンを押した場合
+                //Main5Activityに移動
+                Intent intent4 = new Intent(Main2Activity.this, MainActivity.class);
+                //↓移動開始
+                startActivity(intent4);
+                break;
         }
     }
 }
