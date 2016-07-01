@@ -1,6 +1,6 @@
 # 評定君(仮)
 
-課題研究Android班のGit
+AndroidApp git
 
 How to use
 
