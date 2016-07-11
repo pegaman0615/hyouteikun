@@ -6,10 +6,7 @@
     <string name="set">設定</string>
     <string name="na">build by Nakamura・Nakata</string>
     <string name="title_activity_main2"></string>
-    <string name="iname">名前</string>
-    <string name="winame">名前を入力</string>
-    <string name="inum">クラス・番号</string>
-    <string name="winum">クラス・番号を入力</string>
+    <string name="gakunen">学年を選択</string>
     <string name="next">次へ</string>
     <string name="ret">タイトルに戻る</string>
     <string name="title_activity_main3"></string>

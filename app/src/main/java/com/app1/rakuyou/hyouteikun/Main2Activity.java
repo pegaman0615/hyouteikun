@@ -16,19 +16,13 @@ public class Main2Activity extends AppCompatActivity {
     public void onClick(View v) {
         switch (v.getId()) {
 
-            case R.id.button4://"次へ"ボタンを押した場合
+            case R.id.button4://"タイトルへ戻る"ボタンを押した場合
                 //Main5Activityに移動
-                Intent intent3 = new Intent(Main2Activity.this, Main5Activity.class);
+                Intent intent3 = new Intent(Main2Activity.this, MainActivity.class);
                 //↓移動開始
                 startActivity(intent3);
                 break;
 
-            case R.id.button5://"タイトルに戻る"ボタンを押した場合
-                //Main5Activityに移動
-                Intent intent4 = new Intent(Main2Activity.this, MainActivity.class);
-                //↓移動開始
-                startActivity(intent4);
-                break;
         }
     }
 }
