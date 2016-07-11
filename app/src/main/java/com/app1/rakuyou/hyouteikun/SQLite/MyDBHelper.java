@@ -1,4 +1,4 @@
-package com.app1.rakuyou.hyouteikun;
+package com.app1.rakuyou.hyouteikun.SQLite;
 
 
 import android.content.Context;
