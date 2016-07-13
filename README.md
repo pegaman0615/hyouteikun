@@ -1,4 +1,4 @@
-# 評定君(仮)
+# <color="#0000FF">評定君
 
 AndroidApp git
 
