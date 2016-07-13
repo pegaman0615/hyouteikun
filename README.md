@@ -1,4 +1,4 @@
-# <color="#0000FF">評定君
+# 評定君<color="#0000FF">
 
 AndroidApp git
 
