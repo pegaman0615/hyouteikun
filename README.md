@@ -1,6 +1,6 @@
 # 評定君
 
-<font color="#0000FF">AndroidApp git<font/>
+<font color="#0000FF">AndroidApp git
 
 How to use
 
