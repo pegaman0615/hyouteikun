@@ -1,7 +1,7 @@
 # 評定君
+AndroidApp git
 --------------
 
-AndroidApp git
 
 How to use
 
