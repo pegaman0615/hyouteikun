@@ -3,7 +3,9 @@ AndroidApp git
 --------------
 
 
-How to use
+
+
+**How to use**
 
 1,Android studio内でcommit
 
