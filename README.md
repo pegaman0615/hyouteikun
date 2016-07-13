@@ -6,7 +6,9 @@ AndroidApp git
 
 
 **How to commit**
-
+<br/>
+<br/>
+<br/>
 ・Android studio内でcommit
 
 ・コマンドラインから、cd 自分のローカルリポジトリまでのパス<br/>
@@ -19,11 +21,11 @@ AndroidApp git
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 **How to use??**
-
-
+<br/>
 追加予定
+<br/>
+<br/>
+<br/>
 **finish!!**
 
