@@ -1,12 +1,9 @@
 # 評定君
 AndroidApp git
 --------------
-
-
-
-
-**How to commit**
 <br/>
+<br/>
+**How to commit**
 <br/>
 <br/>
 ・Android studio内でcommit
@@ -22,6 +19,7 @@ AndroidApp git
 <br/>
 <br/>
 **How to use??**
+---------------
 <br/>
 追加予定
 <br/>
