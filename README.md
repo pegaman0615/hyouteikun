@@ -7,7 +7,7 @@ AndroidApp git
 
 **How to use**
 
-1,Android studio内でcommit
+・Android studio内でcommit
 
 2,コマンドラインから
 cd 自分のローカルリポジトリまでのパス<br/>
