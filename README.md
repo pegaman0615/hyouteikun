@@ -1,6 +1,7 @@
 # 評定君
 
 <p><font color="#0000FF">AndroidApp git<font/><p>
+<p><font size="7" color="#00ff00">サイズが7で緑色</font></p>
 
 How to use
 
