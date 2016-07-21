@@ -27,7 +27,16 @@
             android:name=".Main5Activity"
             android:label="@string/title_activity_main5"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity
+            android:name=".Main7Activity"
+            android:label="@string/title_activity_main7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main8Activity"
+            android:label="@string/title_activity_main8"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
